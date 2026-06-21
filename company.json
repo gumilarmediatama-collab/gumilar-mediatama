@@ -1,0 +1,60 @@
+{
+  "company": "Gumilar Mediatama",
+  "tagline": "Creative Digital Solutions",
+
+  "about": "Gumilar Mediatama adalah perusahaan yang bergerak dalam bidang media digital, branding, pengembangan website, digital marketing, multimedia dan solusi teknologi informasi untuk mendukung transformasi bisnis modern.",
+
+  "vision": "Menjadi perusahaan media dan teknologi terpercaya yang memberikan solusi kreatif dan inovatif di Indonesia.",
+
+  "mission": [
+    "Memberikan layanan digital terbaik.",
+    "Meningkatkan daya saing bisnis melalui teknologi.",
+    "Menghasilkan karya kreatif berkualitas tinggi.",
+    "Membangun hubungan jangka panjang dengan klien."
+  ],
+
+  "services": [
+    {
+      "title": "Digital Marketing",
+      "description": "Strategi pemasaran digital untuk meningkatkan brand awareness dan penjualan."
+    },
+    {
+      "title": "Web Development",
+      "description": "Pembuatan website company profile, landing page dan aplikasi web."
+    },
+    {
+      "title": "Creative Design",
+      "description": "Branding, desain grafis, UI/UX dan materi promosi digital."
+    },
+    {
+      "title": "Multimedia Production",
+      "description": "Video, fotografi, motion graphic dan konten kreatif."
+    },
+    {
+      "title": "SEO Optimization",
+      "description": "Optimasi website agar mudah ditemukan di mesin pencari."
+    },
+    {
+      "title": "IT Consulting",
+      "description": "Konsultasi dan implementasi solusi teknologi bisnis."
+    }
+  ],
+
+  "portfolio": [
+    "Corporate Website",
+    "Digital Campaign",
+    "Brand Identity",
+    "Mobile UI Design",
+    "SEO Project",
+    "Company Profile",
+    "Video Production",
+    "Marketing Campaign"
+  ],
+
+  "contact": {
+    "email": "info@gumilarmediatama.com",
+    "phone": "+62 812 3456 7890",
+    "whatsapp": "6281234567890",
+    "address": "Bandung, Jawa Barat, Indonesia"
+  }
+}
